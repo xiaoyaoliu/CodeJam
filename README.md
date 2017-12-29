@@ -1,4 +1,4 @@
-I have a plan to try google's codejam.
+I have a plan to try google's [codejam](https://code.google.com/codejam/past-contests).
 My solutions will push here gradually.
 
 另外我会将在这里保存题目和数据，因为在中国访问CodeJam需要梯子
