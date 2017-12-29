@@ -6,12 +6,12 @@ This contest is open for practice. You can try every problem as many times as yo
   <tr>
     <td>Small input
 5 points</td>
-    <td>[Solve A-small](https://github.com/xiaoyaoliu/CodeJam/blob/master/GoogleCodeJam/2008/Qualification_Round.A.Saving_the_Universe/A-small-practice.in)</td>
+    <td><a href='https://github.com/xiaoyaoliu/CodeJaoogleCodeJam/2008/Qualification_Round.A.Saving_the_Universe/A-small-practice.in'> Solve A-small </a></td>
   </tr>
   <tr>
     <td>Large input
 20 points</td>
-    <td>[Solve A-large](A-large-practice.in)</td>
+    <td><a href='https://github.com/xiaoyaoliu/CodeJaoogleCodeJam/2008/Qualification_Round.A.Saving_the_Universe/A-large-practice.in'> Solve A-large </a></td>
   </tr>
 </table>
 
