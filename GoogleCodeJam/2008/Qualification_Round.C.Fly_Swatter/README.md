@@ -26,7 +26,7 @@ The ring is covered with horizontal and vertical strings. Each string is a cylin
 
 The fly is a sphere of radius **f**. Assume that the racquet is moving in a straight line perpendicular to the plane of the ring. Assume also that the fly's center is inside the outer radius of the racquet and is equally likely to be anywhere within that radius. Any overlap between the fly and the racquet (the ring or a string) counts as a hit.
 
-    ![image alt text](https://github.com/xiaoyaoliu/CodeJam/blob/master/GoogleCodeJam/2008/Qualification_Round.C.Fly_Swatter/image_0.png) 
+    [[https://github.com/xiaoyaoliu/CodeJam/blob/master/GoogleCodeJam/2008/Qualification_Round.C.Fly_Swatter/image_0.png|alt=hello]]
 
 ## Input
 
