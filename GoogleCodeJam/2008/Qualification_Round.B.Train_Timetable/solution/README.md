@@ -24,5 +24,5 @@ T0 can **reuse** the train R0, so Ares += 0, AWait.pop();
 Whatever R0 is reused or new-started, R0 will always be added to BWait: BWait.push(T0.arrival_time + T)
 
 ## Some tips
-* We need find the earliest trip in A and B, so firstly, we should sort A's trips and B's trips by its depature_time
-* We need find the earliest train in AWait or BWait, so AWait and BWait is supposed to be a heap
+* We need find the earliest trip in A and B, so firstly, we should sort A's trips and B's trips by their depature_time
+* We need find the earliest train in AWait or BWait, so AWait and BWait is supposed to be a heap or priority_queue
